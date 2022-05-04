@@ -35,9 +35,10 @@ To Do: please research!!
 
 ## How to compile Cuboc Desktop game app?
 ```
-dir /s /B *.java > sources.txt              // gather all java files into one file
+dir /s /B *.java > sources.txt              
 mkdir build
-javac -d build -cp ".;+libs/*" @sources.txt -Xlint:unchecked // compile all files into *.class and place files in build folder
+xcopy assets build /e
+javac -d build -cp ".;+libs/*" @sources.txt -Xlint:unchecked 
 java -cp ".;+libs/*;./build" com.badlogic.cubocy.CubocDesktop
 ```
 
