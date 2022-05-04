@@ -33,7 +33,7 @@ https://github.com/libgdx/packr
 ## How to compile a libgdx game into android build ?
 To Do: please research!!
 
-# How to compile Cuboc Desktop game app?
+## How to compile Cuboc Desktop game app?
 ```
 dir /s /B *.java > sources.txt              // gather all java files into one file
 mkdir build
