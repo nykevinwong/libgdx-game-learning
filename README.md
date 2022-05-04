@@ -41,4 +41,5 @@ xcopy assets build /e
 javac -d build -cp ".;+libs/*" @sources.txt -Xlint:unchecked 
 java -cp ".;+libs/*;./build" com.badlogic.cubocy.CubocDesktop
 ```
-
+# Continious Integartion - Move the code to gitlab. git has free 400 CI minutes with 5GB repo.
+https://about.gitlab.com/pricing/
