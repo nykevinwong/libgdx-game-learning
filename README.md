@@ -32,3 +32,12 @@ https://github.com/libgdx/packr
 
 ## How to compile a libgdx game into android build ?
 To Do: please research!!
+
+# How to compile Cuboc Desktop game app?
+```
+dir /s /B *.java > sources.txt              // gather all java files into one file
+mkdir build
+javac -d build -cp ".;+libs/*" @sources.txt -Xlint:unchecked // compile all files into *.class and place files in build folder
+java -cp ".;+libs/*;./build" com.badlogic.cubocy.CubocDesktop
+```
+
