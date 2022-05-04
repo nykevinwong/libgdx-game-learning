@@ -29,3 +29,6 @@ this command will generate a myApp.jar
 
 To Do: figure out how to compile a libgdx game into an executable for selling.
 https://github.com/libgdx/packr
+
+## How to compile a libgdx game into android build ?
+To Do: please research!!
