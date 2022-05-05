@@ -6,6 +6,7 @@
 - https://github.com/libgdx/libgdx-demo-cuboc
 - https://github.com/libgdx/libgdx-demo-metagun
 - (Other offical libgdx demo) https://github.com/libgdx?q=demo&type=all&language=&sort=
+- Other open-source mini-games: https://github.com/topics/ludum-dare?l=java
 
 ## Compile your java source code into bytecode (*.class files)
 
