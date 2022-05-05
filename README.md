@@ -5,7 +5,7 @@
 - https://github.com/Apress/java-game-dev-LibGDX
 - https://github.com/libgdx/libgdx-demo-cuboc
 - https://github.com/libgdx/libgdx-demo-metagun
-
+- (Other offical libgdx demo) https://github.com/libgdx?q=demo&type=all&language=&sort=
 
 ## Compile your java source code into bytecode (*.class files)
 
