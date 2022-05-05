@@ -2,7 +2,10 @@
 # Learning Libgdx Game Development
 
 ## Source Code for learning.
-https://github.com/Apress/java-game-dev-LibGDX
+- https://github.com/Apress/java-game-dev-LibGDX
+- https://github.com/libgdx/libgdx-demo-cuboc
+- https://github.com/libgdx/libgdx-demo-metagun
+
 
 ## Compile your java source code into bytecode (*.class files)
 
