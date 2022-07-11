@@ -1,5 +1,9 @@
 
 # Learning Libgdx Game Development
+## java into javascript souce code with Source Map debuggin idea
+- 將 java transpile into 相對應對 javascript source code. 而且還是直接使用相對應的，寫好的javascript java library.
+如，寫一個相對應 java.util.Arrays 的 javascript source code 程式碼，這樣 source map 的 java 及相對應的程式碼會很相似. 這樣做的好處是，不懂 javascript 的人，也可以用自已熟的語言開發及除錯，這樣也讓不喜歡javascsript的人，可以產生學習興趣。
+- 要做到這點需要了解如何寫compiler，如何製作自己的java JVM,如何compile java JVM into class 及讀取等等. 或許也可用cloud 平行讀取。
 
 ## Source Code for learning.
 - https://github.com/Apress/java-game-dev-LibGDX
